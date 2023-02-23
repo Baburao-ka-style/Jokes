@@ -1,1 +1,1 @@
-# Jokes
+# Random Jokes generator
